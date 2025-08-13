@@ -1,0 +1,49 @@
+Complete Notebook Cell Order (All .py files)
+🔧 Section 1: Configuration & Constants (config/)
+
+    Cell 1: system_constants.py - Fundamental constants first
+    Cell 2: crv_database.py - Core Resonance Values database
+    Cell 3: hardware_profiles.py - Hardware configuration profiles
+    Cell 4: ubp_config.py - Main configuration settings
+    Cell 5: ubp_reference_sheet.py - Reference data
+
+🏗️ Section 2: Core Framework (src/)
+
+    Cell 6: core.py - Core UBP classes and functions
+    Cell 7: bitfield.py - Bitfield management system
+    Cell 8: toggle_algebra.py - Basic toggle operations
+    Cell 9: advanced_toggle_operations.py - Advanced operations
+    Cell 10: glr_framework.py - Golay-Leech-Resonance framework
+
+🌐 Section 3: Realms & Specialized Systems (src/)
+
+    Cell 11: realms.py - Base realm definitions
+    Cell 12: nuclear_realm.py - Nuclear physics realm
+    Cell 13: optical_realm.py - Optical physics realm
+    Cell 14: realm_selector.py - Realm selection logic
+
+⚡ Section 4: Advanced Systems (src/)
+
+    Cell 15: enhanced_crv_system.py - Enhanced CRV management
+    Cell 16: htr_engine.py - Harmonic Toggle Resonance engine
+    Cell 17: bittime_mechanics.py - Temporal coordination
+    Cell 18: rune_protocol.py - High-level control protocol
+    Cell 19: enhanced_error_correction.py - Error correction systems
+
+🎯 Section 5: Integration & Utilities (src/)
+
+    Cell 20: hex_dictionary.py - Hex dictionary system
+    Cell 21: rgdl_engine.py - RGDL processing engine
+    Cell 22: ubp_framework.py - Framework integration (if exists)
+    Cell 23: ubp_framework_v3.py - Main v3 framework class
+
+🧪 Section 6: Testing & Validation (tests/)
+
+    Cell 24: test_ubp_v3_integration.py - Integration tests
+
+🚀 Section 7: Test Drives & Applications
+
+    Cell 25: simple_validation.py - Quick validation
+    Cell 26: UBP_Test_Drive_Performance_Benchmarks.py - Performance tests
+    Cell 27: UBP_Test_Drive_CMB_Simulation.py - CMB simulation
+    Cell 28: UBP_Test_Drive_Toggle_Power_Harvesting.py - Power harvesting
